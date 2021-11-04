@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Archivos de Vinos</string>
+    <string name="btSecAdd">Add</string>
+    <string name="btSecEdit">Edit</string>
+    <string name="btDelete">Delete</string>
+    <string name="btAdd">Add</string>
+    <string name="btEdit">Edit</string>
+    <string name="etMainId">Id</string>
+    <string name="tvScroll">Vino</string>
+    <string name="tvId">Id:</string>
+    <string name="tvNombre">Nombre:</string>
+    <string name="tvBodega">Bodega:</string>
+    <string name="tvColor">Color:</string>
+    <string name="tvOrigen">Origen:</string>
+    <string name="tvGraduacion">Graduacion:</string>
+    <string name="tvFecha">Fecha:</string>
+    <string name="tvNumId">Id</string>
+    <string name="btCancel">Cancel</string>
+    <string name="dialog">¿Are you sure about deleting this?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
